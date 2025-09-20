@@ -1,0 +1,13 @@
+# Python / common
+__pycache__/
+*.pyc
+.DS_Store
+
+# 仮想環境
+env/
+venv/
+.venv/
+
+# 秘密情報
+.env
+.env.*
